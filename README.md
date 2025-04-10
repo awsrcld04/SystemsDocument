@@ -31,14 +31,14 @@ Memory: 16-32MB
     - Documentation can be saved to a specified filesystem location (including UNC paths)
 
 ### Command-line Parameters:
-- run (Required)
-- v (Optional: minimal verbose output)
+- -run (Required)
+- -v (Optional: minimal verbose output)
 
 Usage:
-Open a command-line prompt on the target system for SystemsDocument.
-Navigate to the directory where SystemsDocument is installed.
-On the command-line, execute SystemsDocument –run.
-Documentation will be saved in the directory where SystemsDocument is executed unless specified in SystemsDocument.cfg (see below for more information on SystemsDocument.cfg).
+1. Open a command-line prompt on the target system for SystemsDocument.
+2. Navigate to the directory where SystemsDocument is installed.
+3. On the command-line, execute SystemsDocument –run.
+4. Documentation will be saved in the directory where SystemsDocument is executed unless specified in SystemsDocument.cfg (see below for more information on SystemsDocument.cfg).
 
 ### SystemsDocument.cfg
 SystemsDocument.cfg specifies a specific download location for use by SystemsDocument. The specified location can be a local drive on the system, network drive (accessed via drive letter or UNC path).
