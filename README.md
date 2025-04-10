@@ -18,7 +18,7 @@ Memory: 16-32MB
 - Windows Server 2012*
 - Windows Server 2012 R2*
 
-* excluding Server Core versions
+*excluding Server Core versions
 
 ### Additional software requirements:
 - Microsoft .NET Framework v3.5
