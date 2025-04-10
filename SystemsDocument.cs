@@ -2458,7 +2458,7 @@ namespace SystemsDocument
 
         static void funcPrintParameterSyntax()
         {
-            Console.WriteLine("SystemsDocument (c) 2016 systemsdocument.com");
+            Console.WriteLine("SystemsDocument");
             Console.WriteLine();
             Console.WriteLine("Parameter syntax:");
             Console.WriteLine();
