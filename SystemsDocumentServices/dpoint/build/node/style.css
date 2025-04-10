@@ -1,0 +1,66 @@
+<style type="text/css">
+    <!--
+    body {
+      color:#000000;
+      background-color:#FFFFFF;
+    }
+    a  { color:#0000FF; }
+    a:visited { color:#800080; }
+    a:hover { color:#008000; }
+    a:active { color:#FF0000; }
+	
+/*	
+	#header {
+	  position: absolute;
+	}
+	
+	#headerouterbox {
+	  border: 0 solid;
+	  margin-left: auto;
+	  margin-right: auto;
+	  position: absolute;
+	  width: 960px;
+	}
+	
+    #headerbox {
+	  display: inline;
+	  float: left;
+	  margin-left: 10px;
+	  margin-right: 10px;
+	  position: relative;
+	}
+
+*/
+    #headerbox {
+	  /* display: inline; */ 
+	  border: 3px coral solid;
+	  float: left;
+	  margin-left: 10px;
+	  margin-right: 10px;
+	  width:300px;
+	  /* position: relative; */
+	}
+	
+	#oselements {
+	  position: relative; 
+	  border-left: 20px white solid;
+	}
+/*    #operatingsystem {
+	  border: 3px coral solid;
+ 	  position: relative; 
+	  width: 960px;
+	}
+    #oselements {
+	  position: relative; 
+	  border-left: 20px white solid;
+	} */
+    #sectionelements {
+	  position: relative; 
+	  border-left: 20px white solid;
+	}
+	
+    -->
+    </style>
+    <!--[if IE]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
