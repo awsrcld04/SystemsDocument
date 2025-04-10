@@ -1,6 +1,6 @@
-﻿//****************************************
-// Copyright (c) SystemsDocument 2016
-//****************************************
+﻿// Copyright (C) 2025 Akil Woolfolk Sr. 
+// All Rights Reserved
+// All the changes released under the MIT license as the original code.
 
 using Microsoft.Win32;
 using Newtonsoft.Json;
